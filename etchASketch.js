@@ -40,3 +40,5 @@ setSizeButton.addEventListener('click', () => {
     removeOldGrid();
     createNewGrid();
 });
+
+const clearSquaresButton = document.querySelector('#clear-squares');
