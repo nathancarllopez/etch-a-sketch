@@ -1,0 +1,11 @@
+#grid-container {
+    display: grid;
+    margin: 5px;
+}
+
+#grid-container div {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
